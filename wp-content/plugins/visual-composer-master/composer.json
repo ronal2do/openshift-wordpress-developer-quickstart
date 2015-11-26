@@ -1,0 +1,13 @@
+{
+  "name": "datracka/visual-composer",
+  "type": "wordpress-plugin",
+  "package": {
+    "source": {
+      "url": "git@github.com:datracka/visual-composer.git",
+      "type": "git"
+    },
+    "require": {
+      "composer/installers": "~1.0.6"
+    }
+  }
+}
